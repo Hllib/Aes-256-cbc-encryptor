@@ -33,7 +33,7 @@ namespace ConsoleApp2
         public static void Main()
         {
             EncryptorDecryptor encryptorDecryptor =
-                new EncryptorDecryptor("AzYVa1xuFHxWOyXLPsOwbU9HDhsS9PyP", "wpHSiAWAQBBmBZNP");
+                new EncryptorDecryptor("AzYVa9xyFGxEOyXLKsOwbU9HDhsS9PyP", "wpHSiAWAHBBmMZNP");
 
             Console.Write("Input the string to be encrypted: ");
             string stringToEncrypt = Console.ReadLine();
